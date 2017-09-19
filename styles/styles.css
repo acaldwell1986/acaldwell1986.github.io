@@ -192,6 +192,8 @@ footer {
     text-align: center;
     font-size: 1.84em;
     color: #fff;
+    margin-left: 20px;
+    margin-right: 20px;
   }
 }
 
@@ -210,6 +212,8 @@ footer {
     text-align: center;
     font-size: 1.38em;
     color: #fff;
+    margin-left: 20px;
+    margin-right: 20px;
   }
   nav .profLink {
     text-decoration: none;
@@ -247,6 +251,8 @@ footer {
     text-align: center;
     font-size: 1.38em;
     color: #fff;
+    margin-left: 20px;
+    margin-right: 20px;
   }
   nav .profLink {
     text-decoration: none;
