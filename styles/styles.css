@@ -1,10 +1,11 @@
 /*font-family: 'Bitter', serif;*/
 body {
   margin: 0px;
-  padding:0px;
+  padding: 0px;
 }
 header {
   font-family: 'Bitter', serif;
+  /*background: url("../bgphoto.jpg");*/
   background-color: #003387;
   width: 100%;
   margin: 0px;
@@ -101,8 +102,6 @@ footer {
     padding:0px;
   }
   header {
-    font-family: 'Bitter', serif;
-    background-color: #003387;
     width: 100%;
     margin: 0px;
     margin-top: -45px;
